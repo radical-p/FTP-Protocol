@@ -123,6 +123,6 @@ def Help():
 
 if __name__ == "__main__":
     print("Howdy!!!")
-    print("Welcome to simple FTP-Protocol developed by ...\n")
+    print("Welcome to simple FTP-Protocol developed by Pouya and amir\n")
     control_Chanel()
     Help()
